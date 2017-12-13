@@ -20,7 +20,7 @@ public class Zasobnik
 		pole[vrchzas++] = i;
 	}
 
-	public int vyjmi(int i)
+	public int vyjmi()
 	throws VyjimkaPrazdnyZasobnik
 	{
 		if(vrchzas == 0)
