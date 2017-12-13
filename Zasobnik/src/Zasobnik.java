@@ -27,7 +27,7 @@ public class Zasobnik
 		{
 			throw new VyjimkaPrazdnyZasobnik();
 		}
-		return pole[vrchzas--];
+		return pole[--vrchzas];
 	}
 	
 }
