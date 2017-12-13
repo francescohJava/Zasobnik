@@ -4,7 +4,7 @@ public class VytZasobnika
 
 	public static void main(String[] args)
 	{
-		// TODO Auto-generated method stub
+		Zasobnik maleCisla = new Zasobnik(10);
 
 	}
 
